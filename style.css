@@ -232,6 +232,37 @@ section {
     color: #555;
 }
 
+.about-footer-links {
+    grid-column: 2;
+    display: flex;
+    justify-content: flex-end;
+    gap: 4rem;
+    margin-top: -2rem; /* Pull up to align with image bottom if gap allows */
+    text-align: right;
+}
+
+.link-group h3 {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #666;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.link-group a {
+    display: block;
+    font-size: 0.85rem;
+    color: #000;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    transition: opacity 0.2s ease;
+}
+
+.link-group a:hover {
+    opacity: 0.6;
+}
+
 /* --- ARTSY LAYOUT --- */
 .artsy-container {
     display: grid;
