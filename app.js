@@ -255,8 +255,10 @@ document.addEventListener('DOMContentLoaded', () => {
             meta = { ...meta, ...parsedMetadata[id] };
         }
         
-        document.getElementById('artsy-title').textContent = meta.title;
-        document.getElementById('artsy-year').textContent = meta.year;
+        // Build title + year display — fallback to filename if title is empty
+        const displayTitle = meta.title && meta.title.trim() !== '' ? meta.title : id;
+        const titleYearEl = document.getElementById('artsy-title-year');
+        titleYearEl.innerHTML = `<em>${displayTitle}</em>${meta.year && meta.year !== 'Unknown' ? `, <span>${meta.year}</span>` : ''}`;
         
         // Combine medium and size for the summary below title
         document.getElementById('artsy-summary-medium').textContent = `${meta.medium}, ${meta.size}`;
