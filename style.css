@@ -99,13 +99,15 @@ a:hover {
 }
 
 .dropdown-menu a {
-    color: var(--muted-color);
-    font-size: 0.85rem;
+    color: #ffffff;
+    font-size: 0.9rem;
+    font-weight: 600;
     text-transform: capitalize;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.8);
 }
 
 .dropdown-menu a:hover {
-    color: var(--text-color);
+    color: #cccccc;
 }
 
 /* Main Content Area */
