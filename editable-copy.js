@@ -117,4 +117,16 @@ Signature: Hand-signed by artist
 Frame: Not included
 About: This stunning photograph captures the essence of... (Placeholder about text)
 Provenance: Acquired directly from the artist's studio.
+[Artwork: camel.jpg]
+Title: Camel
+Year: 2020
+Materials: Archival Pigment Print
+Size: 30 × 40 in | 76.2 × 101.6 cm
+Rarity: Edition of 10
+Medium: Photography
+Condition: Pristine
+Signature: Hand-signed by artist
+Frame: Not included
+About: A powerful portrait series investigating...
+Provenance: Artist's private collection.
 `;
