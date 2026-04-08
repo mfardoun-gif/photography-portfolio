@@ -21,18 +21,18 @@ Metal
 
 --- ARTWORK DETAILS ---
 
-[Artwork: DSC07291.JPG]
-Title: 
-Year: 2017
-Materials: Platinum Over Gold Leaf Print
-Size: 20 × 20 in | 50.8 × 50.8 cm
-Rarity: Unique
+[Artwork: Camel.jpg]
+Title: Camel
+Year: 2020
+Materials: Archival Pigment Print
+Size: 30 × 40 in | 76.2 × 101.6 cm
+Rarity: Edition of 10
 Medium: Photography
-Condition: Perfect Condition
+Condition: Pristine
 Signature: Hand-signed by artist
 Frame: Not included
-About: This stunning photograph captures the essence of... (Placeholder about text)
-Provenance: Acquired directly from the artist's studio.
+About: A powerful portrait series investigating...
+Provenance: Artist's private collection.
 
 
 [Artwork: IMGP3620.JPG]
@@ -117,18 +117,4 @@ Signature: Hand-signed by artist
 Frame: Not included
 About: This stunning photograph captures the essence of... (Placeholder about text)
 Provenance: Acquired directly from the artist's studio.
-
-
-[Artwork: Camel.jpg]
-Title: Camel
-Year: 2020
-Materials: Archival Pigment Print
-Size: 30 × 40 in | 76.2 × 101.6 cm
-Rarity: Edition of 10
-Medium: Photography
-Condition: Pristine
-Signature: Hand-signed by artist
-Frame: Not included
-About: A powerful portrait series investigating...
-Provenance: Artist's private collection.
 `;
