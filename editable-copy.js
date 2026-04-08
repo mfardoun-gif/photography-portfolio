@@ -117,7 +117,9 @@ Signature: Hand-signed by artist
 Frame: Not included
 About: This stunning photograph captures the essence of... (Placeholder about text)
 Provenance: Acquired directly from the artist's studio.
-[Artwork: camel.jpg]
+
+
+[Artwork: Camel.jpg]
 Title: Camel
 Year: 2020
 Materials: Archival Pigment Print
